@@ -122,7 +122,7 @@ export default function Home() {
                 <span className="text-[#B8860B] text-xs">🌿</span>
                 <span className="text-xs font-bold uppercase tracking-widest text-gray-400">Our About Us</span>
               </div>
-              <h2 className="text-2xl md:text-5xl font-black text-gray-900 uppercase leading-tight">
+              <h2 className="text-2xl md:text-4xl font-black text-gray-900 uppercase leading-tight">
                 WHERE QUALITY PRODUCE MEETS
               </h2>
               <p className="text-4xl md:text-5xl font-black italic text-[#B8860B] leading-tight" style={{ fontFamily: 'Georgia, serif' }}>
