@@ -123,7 +123,7 @@ export default function Home() {
                 <span className="text-xs font-bold uppercase tracking-widest text-gray-400">Our About Us</span>
               </div>
               <h2 className="text-4xl md:text-5xl font-black text-gray-900 uppercase leading-tight">
-                WHERE QUALITY PRODUCE MEETS
+                WHERE QUALITY PRODUCE MEETS.
               </h2>
               <p className="text-4xl md:text-5xl font-black italic text-[#B8860B] leading-tight" style={{ fontFamily: 'Georgia, serif' }}>
                 Global Trust
